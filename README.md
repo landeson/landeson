@@ -13,4 +13,4 @@ criando projeto com as Tecnologias :computer:
 
 [![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=landeson)](https://github.com/anuraghazra/github-readme-stats)
 
-
+ <a href="https://www.linkedin.com/in/landeson-fernandes-b7b1531b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> 
