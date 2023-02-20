@@ -1,6 +1,9 @@
  Hi there 👋
 
-Eu sou landeson sou um programado Front end criando projeto com as Tecnologias :computer:
+Eu sou landeson sou um programado Front end a caminho pra se torna um desenvolvedor full Stack
+criando projeto com as Tecnologias :computer:
+
+
 
 - HTML <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html.logo"/>
 
